@@ -1,0 +1,7 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+pdfplumber
+py-pdf-parser
+pdfminer.six
+python-dotenv>=1.1.0
+google-auth-oauthlib<1.1,>=0.5
